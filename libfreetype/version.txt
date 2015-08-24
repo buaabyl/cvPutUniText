@@ -1,0 +1,1 @@
+freetype26MT-vc10sp1
